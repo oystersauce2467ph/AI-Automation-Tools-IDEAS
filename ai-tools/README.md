@@ -13,7 +13,12 @@ descriptions, and hidden features. Built and verified in **batches** to keep the
 | [`AI-Tool-Directories.md`](./AI-Tool-Directories.md) | Source websites/directories used to build and refresh the list. |
 
 ## Spreadsheet columns
-`No · Tool · Category · Release · Pricing Model · Free Tier / Trial · Paid Plans (USD/mo) · G2 Rating (approx) · Est. Monthly Web Visits · Est. Mobile MAU · Origin`
+`No · Tool · Category · Release · Best For / Use-Case · Website · Pricing Model · Free Tier / Trial · Paid Plans (USD/mo) · G2 Rating (approx) · Est. Monthly Web Visits · Est. Mobile MAU · Origin`
+
+## Link verification
+Every **Website** link in `AI-Tools-Master.csv` was HTTP-checked (2026). Most return `200`; a few big brands
+(ChatGPT, Claude, Perplexity, Midjourney, Canva, etc.) return `403` to automated requests but open normally in a
+browser. PlayHT was **removed** (service shut down Dec 2025) and replaced with **Speechify** in the same category.
 
 ## Categories (17)
 LLM Assistants · Search & Answer Engines · Writing & Grammar · Image Generation & Editing ·

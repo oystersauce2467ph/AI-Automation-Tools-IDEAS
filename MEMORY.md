@@ -24,6 +24,7 @@
 | 2026-07-01 | Auto-push approved | Enabled automatic pushing of MEMORY.md updates without asking each time. |
 | 2026-07-01 | Top 100 AI tools catalog | Built categorized Top 100 AI tools list (MD + CSV) and a directory-of-directories resource file. |
 | 2026-07-01 | Enriched to Top 1000 roadmap | Added pricing/release/G2/MAU columns, deep profiles w/ hidden features, filtered sub-lists; reframed as Top 1000 (batched). |
+| 2026-07-01 | Best-for + verified links | Added Best For/use-case & launch-month columns and HTTP-verified Website links; replaced dead PlayHT with Speechify. |
 
 ---
 
@@ -138,6 +139,25 @@
 - Batches 2-7: expand toward 1,000 tools (category-balanced, deduped).
 - Optional: verify/fill more G2 ratings and any newly-public mobile MAU figures.
 - Monthly refresh of pricing and rankings.
+
+---
+
+### 📅 2026-07-01 — Best-For, Launch Months & Verified Website Links
+
+**Topic:** Adding use-case column, launch months, and working website links to the catalog.
+
+**What was discussed:**
+- You asked to add a "Best for"/use-case column, fill launch-month where only a year existed, and add a Website link per tool that actually works (no broken links).
+
+**Actions taken:**
+- Added `Best For / Use-Case` and `Website` columns to `AI-Tools-Master.csv`; filled launch months where reliably known.
+- HTTP-checked all 100 website URLs with curl (browser user-agent, following redirects). Most 200; some big brands return 403 to bots but work in-browser.
+- Fixed dead links: **PlayHT shut down (Dec 2025)** -> replaced with **Speechify**; Adobe Firefly -> `firefly.adobe.com`; Adobe Express -> `express.adobe.com`.
+- Properly quoted CSV fields containing commas so columns don't break in Excel.
+- Hyperlinked tool names in `Tool-Profiles.md`; updated `README.md` schema + link-verification note.
+
+**Open items / follow-ups:**
+- Continue batches toward 1,000; re-verify links periodically (tools rebrand/shut down).
 
 ---
 
