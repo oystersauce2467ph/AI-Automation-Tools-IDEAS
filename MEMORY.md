@@ -25,6 +25,7 @@
 | 2026-07-01 | Top 100 AI tools catalog | Built categorized Top 100 AI tools list (MD + CSV) and a directory-of-directories resource file. |
 | 2026-07-01 | Enriched to Top 1000 roadmap | Added pricing/release/G2/MAU columns, deep profiles w/ hidden features, filtered sub-lists; reframed as Top 1000 (batched). |
 | 2026-07-01 | Best-for + verified links | Added Best For/use-case & launch-month columns and HTTP-verified Website links; replaced dead PlayHT with Speechify. |
+| 2026-07-01 | Filled G2 + MAU cells | Verified G2 ratings (corrected Perplexity/ElevenLabs/Tabnine); marked consumer apps n/a honestly; added disclosed MAU (Meta AI ~1B, Gemini ~350M+, Doubao). |
 
 ---
 

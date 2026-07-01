@@ -37,8 +37,8 @@ Each batch: no duplicate tools, category-balanced, with pricing/release verified
 
 ## Important data caveats
 - **Traffic ≠ usage.** Web-visit figures miss mobile-app and API usage.
-- **Mobile MAU** is rarely disclosed publicly, so most rows show `—` rather than a guess.
-- **G2 ratings are approximate** (rounded) and should be verified at g2.com.
+- **G2 ratings**: `n/a` means the tool has **no G2 profile or too few reviews** to be meaningful (common for consumer AI apps like Grok, DeepSeek, Meta AI, Character.ai, and brand-new tools). Numeric ratings were verified/spot-checked on G2 in 2026.
+- **Mobile MAU** is rarely disclosed publicly. Filled only where a credible figure exists (e.g., CapCut ~736M, Meta AI ~1B across apps, Character.ai ~100M+); otherwise `n/a`.
 - **Pricing changes frequently.** Figures are 2026 snapshots; confirm on the vendor page before relying on them.
 - Adult "companion" apps that rank on some raw-traffic charts are intentionally excluded.
 
