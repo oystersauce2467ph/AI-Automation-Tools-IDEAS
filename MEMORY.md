@@ -10,7 +10,8 @@
 - Every meaningful conversation or decision gets recorded as a dated entry below.
 - Each entry captures: **what was discussed**, **decisions made**, **actions taken**, and any **open items / follow-ups**.
 - When you ask "what did we talk about before?" or reference a past request, Kiro reads this file first.
-- Ask Kiro to **"update memory"** at any point and this log will be appended with the latest context.
+- This file is kept up to date **automatically** as we chat (enforced by `.kiro/steering/memory.md`), so you don't have to ask.
+- You can still say **"update memory"** anytime to force an immediate save.
 
 ---
 
@@ -19,6 +20,7 @@
 | Date | Topic | Summary |
 |------|-------|---------|
 | 2026-07-01 | Memory system setup | Created this MEMORY.md to persist chat history for the repo. |
+| 2026-07-01 | Push & auto-update | Committed/pushed MEMORY.md via PR #1; added steering rule to auto-update memory as we chat. |
 
 ---
 
@@ -41,6 +43,28 @@
 
 **Open items / follow-ups:**
 - None yet. Future conversations will be appended as new dated entries.
+
+---
+
+### 📅 2026-07-01 — Push to GitHub & Auto-Update Memory
+
+**Topic:** Publishing the memory file and making it self-updating.
+
+**What was discussed:**
+- You approved committing and pushing `MEMORY.md` to GitHub.
+- You then asked that all our chats already be reflected in memory, and that this be fixed so memory stays current as we chat longer.
+
+**Decisions made:**
+- Push `MEMORY.md` on a new branch and open a PR (rather than committing straight to `main`).
+- Establish automatic memory upkeep via a steering rule instead of relying on manual "update memory" requests.
+
+**Actions taken:**
+- Created branch `add-memory-file`, committed `MEMORY.md`, pushed it, and opened [PR #1](https://github.com/oystersauce2467ph/AI-Automation-Tools-IDEAS/pull/1).
+- Added `.kiro/steering/memory.md` (inclusion: always) instructing Kiro to read `MEMORY.md` at session start and keep it updated automatically after each meaningful exchange.
+- Backfilled this conversation into the log so memory is fully current.
+
+**Open items / follow-ups:**
+- Merge PR #1 so `MEMORY.md` and the steering rule land on `main`. Until merged, they live on the `add-memory-file` branch.
 
 ---
 
