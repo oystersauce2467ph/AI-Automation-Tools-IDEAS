@@ -20,19 +20,21 @@ Every **Website** link in `AI-Tools-Master.csv` was HTTP-checked (2026). Most re
 (ChatGPT, Claude, Perplexity, Midjourney, Canva, etc.) return `403` to automated requests but open normally in a
 browser. PlayHT was **removed** (service shut down Dec 2025) and replaced with **Speechify** in the same category.
 
-## Categories (17)
-LLM Assistants · Search & Answer Engines · Writing & Grammar · Image Generation & Editing ·
+## Categories (20)
+LLM Assistants · Model & Dev Platforms · Search & Answer Engines · Writing & Grammar · Image Generation & Editing ·
 Video Generation & Editing · Audio, Music & Voice · Coding & Development · Productivity & Knowledge ·
 Presentations & Design · Marketing, Sales & SEO · Automation, Agents & No-code · Translation & Language ·
-Meetings & Transcription · Education & Research · Detection & Integrity · Companion & Character · Model & Dev Hubs
+Meetings & Transcription · Education & Research · Detection & Integrity · Companion & Character ·
+Data & Analytics · Customer Support & Chatbots · Model & Dev Hubs
 
 ## Roadmap to 1,000
 The catalog is being expanded from the current flagship set toward 1,000 tools, in batches of ~100.
-Each batch: no duplicate tools, category-balanced, with pricing/release verified from official or reputable sources.
+Each batch: no duplicate tools, category-balanced, with pricing/release verified from official or reputable sources and every website link HTTP-checked.
 
-- [x] **Batch 1 — Top ~100 by usage** (this commit): full schema + deep profiles for flagships.
-- [ ] Batch 2–3: next ~200 (broader per-category depth).
-- [ ] Batch 4–7: long tail to 1,000 (niche + vertical tools).
+- [x] **Batch 1 — Top ~100 by usage**: full schema + deep profiles for flagships.
+- [x] **Batch 2 — Tools 101–200**: broader per-category depth + new categories (Model & Dev Platforms, Data & Analytics, Customer Support & Chatbots).
+- [ ] Batch 3–4: next ~200 (vertical + niche tools).
+- [ ] Batch 5–9: long tail to 1,000.
 - [ ] Ongoing: monthly refresh of pricing, ratings, and rankings.
 
 ## Important data caveats

@@ -99,3 +99,104 @@ No,Tool,Category,Release,Best For / Use-Case,Website,Pricing Model,Free Tier / T
 98,Fireflies.ai,"Meetings & Transcription",2019,"AI meeting notetaker",https://fireflies.ai,Freemium,"Free forever","Pro ~$18; Business ~$29/seat",4.7,n/a,n/a,United States
 99,Quizlet,"Education & Research",2005,"AI study & flashcards",https://quizlet.com,Freemium,"Free forever","Plus ~$8",4.5,n/a,~50M+,United States
 100,GPTZero,"Detection & Integrity",Jan 2023,"Detect AI-written text",https://gptzero.me,Freemium,"Free (limited scans)","Essential ~$10; Premium ~$24",n/a,n/a,n/a,United States
+
+101,Mistral (Le Chat),"Chatbots & Assistants (LLM)",Feb 2024,"European multilingual assistant & open models",https://chat.mistral.ai,Freemium,"Free (Le Chat)","Pro ~$15; Team ~$25/seat",n/a,n/a,n/a,France
+102,Cohere,"Model & Dev Platforms",2019,"Enterprise LLMs for RAG & search",https://cohere.com,Pay-as-you-go,"Free trial API","Pay-per-token; Enterprise custom",4.5,n/a,n/a,Canada
+103,Groq,"Model & Dev Platforms",2016,"Ultra-fast LLM inference (LPU)",https://groq.com,Pay-as-you-go,"Free GroqCloud dev tier","Pay-per-token; Enterprise custom",n/a,n/a,n/a,United States
+104,Together AI,"Model & Dev Platforms",2022,"Host & fine-tune open models",https://www.together.ai,Pay-as-you-go,"Free credits","Pay-per-token; Enterprise custom",n/a,n/a,n/a,United States
+105,Ollama,"Model & Dev Platforms",2023,"Run open LLMs locally",https://ollama.com,Free,"Free (open source)","—",n/a,n/a,n/a,United States
+106,LM Studio,"Model & Dev Platforms",2023,"Desktop app to run local LLMs",https://lmstudio.ai,Free,"Free","—",n/a,n/a,n/a,United States
+107,HuggingChat,"Chatbots & Assistants (LLM)",2023,"Free open-model chat",https://huggingface.co/chat,Free,"Free","—",n/a,n/a,n/a,United States
+108,Replika,"Companion & Character",2017,"AI companion for chat & wellbeing",https://replika.com,Freemium,"Free","Pro ~$20/mo (~$70/yr)",n/a,n/a,n/a,United States
+109,Chatbase,"Customer Support & Chatbots",2023,"Build custom AI support bots",https://www.chatbase.co,Freemium,"Free","Hobby ~$40; Standard ~$150; Pro ~$500",4.8,n/a,n/a,United States
+110,Elicit,"Education & Research",2021,"AI research assistant for papers",https://elicit.com,Freemium,"Free (limited)","Plus ~$12; Pro ~$49",n/a,n/a,n/a,United States
+111,SciSpace,"Education & Research",2020,"Read & understand research papers",https://scispace.com,Freemium,"Free (limited)","Premium ~$12",n/a,n/a,n/a,India
+112,Scite,"Education & Research",2018,"Citation context & verification",https://scite.ai,Paid (trial),"Trial","~$20/mo; Team custom",n/a,n/a,n/a,United States
+113,Kagi,"Search & Answer Engines",2022,"Ad-free premium search with AI",https://kagi.com,Paid (trial),"Free trial (100 searches)","Starter $5; Pro $10; Ultimate $25",n/a,n/a,n/a,United States
+114,Phind,"Search & Answer Engines",2022,"Answer engine for developers",https://www.phind.com,Freemium,"Free","Pro ~$20",n/a,n/a,n/a,United States
+115,Wolfram Alpha,"Education & Research",2009,"Computational knowledge engine",https://www.wolframalpha.com,Freemium,"Free (basic)","Pro ~$7.25/mo; Student ~$5",4.6,n/a,n/a,United States
+116,Semantic Scholar,"Education & Research",2015,"Free AI-powered paper search",https://www.semanticscholar.org,Free,"Free (nonprofit)","—",n/a,n/a,n/a,United States
+117,Sudowrite,"Writing & Grammar",2020,"AI writing partner for fiction",https://www.sudowrite.com,Paid (trial),"Free trial","Hobby ~$19; Professional ~$29; Max ~$59",n/a,n/a,n/a,United States
+118,NovelAI,"Writing & Grammar",2021,"AI storytelling & image companion",https://novelai.net,Paid,"No free tier","Tablet ~$10; Scroll ~$15; Opus ~$25",n/a,n/a,n/a,United States
+119,ProWritingAid,"Writing & Grammar",2012,"Deep style & grammar editing",https://prowritingaid.com,Freemium,"Free (limited)","Premium ~$10/mo (annual); Pro ~$12",4.5,n/a,n/a,United Kingdom
+120,Anyword,"Writing & Grammar",2021,"Data-driven marketing copy",https://anyword.com,Paid (trial),"7-day trial","Starter ~$39; Data-Driven ~$79",4.8,n/a,n/a,United States
+121,Frase,"Marketing, Sales & SEO",2018,"SEO content research & writing",https://www.frase.io,Paid (trial),"Trial ~$1","Basic ~$15; Team ~$115",4.9,n/a,n/a,United States
+122,Writer,"Writing & Grammar",2020,"Enterprise generative-AI platform",https://writer.com,Paid,"Demo/trial","Team ~$18/seat; Enterprise custom",4.7,n/a,n/a,United States
+123,Krea AI,"Image Generation & Editing",2023,"Real-time image/video generation",https://www.krea.ai,Freemium,"Free (daily)","Basic ~$10; Pro ~$35; Max ~$60",n/a,n/a,n/a,United States
+124,Playground AI,"Image Generation & Editing",2022,"Design-focused image generation",https://playground.com,Freemium,"Free (daily)","Pro ~$15",n/a,n/a,n/a,United States
+125,NightCafe,"Image Generation & Editing",2019,"Community AI art generator",https://nightcafe.studio,Freemium,"Free (credits)","From ~$6/mo",n/a,n/a,n/a,Australia
+126,Fotor,"Image Generation & Editing",2012,"Photo editing + AI generation",https://www.fotor.com,Freemium,"Free","Pro ~$9; Pro+ ~$20",4.5,n/a,n/a,China
+127,Pixlr,"Image Generation & Editing",2008,"Browser photo editor with AI",https://pixlr.com,Freemium,"Free","Premium ~$5; Plus ~$8",4.4,n/a,n/a,Malaysia
+128,Clipdrop,"Image Generation & Editing",2020,"AI image editing utilities",https://clipdrop.co,Freemium,"Free (watermark)","Pro ~$9",n/a,n/a,n/a,France
+129,Magnific AI,"Image Generation & Editing",2024,"AI upscaler & enhancer",https://magnific.ai,Paid,"No free tier","Pro ~$39; Premium ~$99 (via Freepik)",n/a,n/a,n/a,Spain
+130,Topaz Labs,"Image Generation & Editing",2018,"Photo/video upscaling & denoise",https://www.topazlabs.com,Paid,"Free trial","One-time ~$99+ per app",n/a,n/a,n/a,United States
+131,Getimg.ai,"Image Generation & Editing",2022,"All-in-one image gen suite",https://getimg.ai,Freemium,"Free (limited)","Basic ~$12; Pro ~$48",n/a,n/a,n/a,United States
+132,Civitai,"Image Generation & Editing",2022,"Hub for open image models/LoRAs",https://civitai.com,Freemium,"Free","Supporter ~$5-$50 (Buzz)",n/a,n/a,n/a,United States
+133,Black Forest Labs (FLUX),"Image Generation & Editing",Aug 2024,"State-of-the-art open image models",https://blackforestlabs.ai,Pay-as-you-go,"Free playground","API pay-per-image",n/a,n/a,n/a,Germany
+134,Pika,"Video Generation & Editing",2023,"Fun, effects-driven AI video",https://pika.art,Freemium,"Free (credits)","Standard ~$10; Pro ~$35; Fancy ~$70",n/a,n/a,n/a,United States
+135,VEED.io,"Video Generation & Editing",2018,"Browser video editing with AI",https://www.veed.io,Freemium,"Free (watermark)","Lite ~$18; Pro ~$30",4.6,n/a,n/a,United Kingdom
+136,Fliki,"Video Generation & Editing",2022,"Text/script to video & voiceover",https://fliki.ai,Freemium,"Free (5 min/mo)","Standard ~$28; Premium ~$88",4.7,n/a,n/a,India
+137,D-ID,"Video Generation & Editing",2017,"Talking-avatar video from photos",https://www.d-id.com,Freemium,"Free trial","Lite ~$6; Pro ~$29",4.6,n/a,n/a,Israel
+138,Colossyan,"Video Generation & Editing",2020,"Avatar videos for L&D/training",https://www.colossyan.com,Freemium,"Free","Starter ~$27; Pro ~$88",4.7,n/a,n/a,United Kingdom
+139,Vidnoz,"Video Generation & Editing",2023,"Free AI avatar video maker",https://www.vidnoz.com,Freemium,"Free (daily)","Pro ~$18; Business ~$48",n/a,n/a,n/a,Hong Kong
+140,Kapwing,"Video Generation & Editing",2017,"Collaborative video editor with AI",https://www.kapwing.com,Freemium,"Free (watermark)","Pro ~$24; Business ~$50/seat",4.5,n/a,n/a,United States
+141,Captions,"Video Generation & Editing",2021,"AI creator studio for talking video",https://www.captions.ai,Freemium,"Free (limited)","Pro ~$10; Max ~$30",n/a,n/a,n/a,United States
+142,Submagic,"Video Generation & Editing",2023,"Auto captions & short-form edits",https://submagic.co,Paid (trial),"Trial","Starter ~$16; Pro ~$40",n/a,n/a,n/a,France
+143,Hailuo AI (MiniMax),"Video Generation & Editing",2024,"Realistic AI video generation",https://hailuoai.video,Freemium,"Free (credits)","From ~$15",n/a,n/a,n/a,China
+144,Vizard,"Video Generation & Editing",2022,"Long video to short clips",https://vizard.ai,Freemium,"Free (limited)","Creator ~$20; Pro ~$40",n/a,n/a,n/a,United States
+145,LOVO,"Audio, Music & Voice",2019,"AI voiceover (Genny)",https://lovo.ai,Freemium,"Free (limited)","Basic ~$24; Pro ~$48",4.6,n/a,n/a,United States
+146,WellSaid Labs,"Audio, Music & Voice",2019,"Studio-grade AI voiceover",https://wellsaidlabs.com,Paid (trial),"Free trial","Maker ~$44; Creative ~$89",4.6,n/a,n/a,United States
+147,Adobe Podcast,"Audio, Music & Voice",2022,"AI audio cleanup & enhancement",https://podcast.adobe.com,Freemium,"Free (beta)","In Creative Cloud",n/a,n/a,n/a,United States
+148,Voicemod,"Audio, Music & Voice",2014,"Real-time voice changer",https://www.voicemod.net,Freemium,"Free","Pro ~$3-$10",n/a,n/a,n/a,Spain
+149,AIVA,"Audio, Music & Voice",2016,"AI music composition for scores",https://www.aiva.ai,Freemium,"Free","Standard ~$15; Pro ~$49",n/a,n/a,n/a,Luxembourg
+150,Soundraw,"Audio, Music & Voice",2020,"Royalty-free AI music generator",https://soundraw.io,Freemium,"Free (preview)","Creator ~$17/mo",n/a,n/a,n/a,Japan
+151,Mubert,"Audio, Music & Voice",2016,"Generative music streams/API",https://mubert.com,Freemium,"Free","Ambassador ~$14; Pro ~$39",n/a,n/a,n/a,United States
+152,Podcastle,"Audio, Music & Voice",2020,"AI podcast recording & editing",https://podcastle.ai,Freemium,"Free","Storyteller ~$15; Pro ~$30",n/a,n/a,n/a,United States
+153,Amazon Q Developer,"Coding & Development",2024,"AWS AI coding assistant",https://aws.amazon.com/q/developer/,Freemium,"Free tier","Pro $19/seat",n/a,n/a,n/a,United States
+154,Sourcegraph Cody,"Coding & Development",2023,"Codebase-aware AI assistant",https://sourcegraph.com,Freemium,"Free","Pro $9; Enterprise custom",4.4,n/a,n/a,United States
+155,Qodo,"Coding & Development",2022,"AI code integrity & test gen",https://www.qodo.ai,Freemium,"Free","Teams ~$19/seat; Enterprise custom",4.5,n/a,n/a,Israel
+156,Aider,"Coding & Development",2023,"Terminal AI pair programmer",https://aider.chat,Free,"Free (open source)","Bring-your-own LLM API cost",n/a,n/a,n/a,United States
+157,Continue,"Coding & Development",2023,"Open-source IDE AI assistant",https://www.continue.dev,Freemium,"Free (open source)","Solo ~$10; Teams ~$20/seat",n/a,n/a,n/a,United States
+158,Cognition Devin,"Coding & Development",2024,"Autonomous AI software engineer",https://cognition.ai,Paid,"Pay-as-you-go","Core from ~$20; Team ~$500",n/a,n/a,n/a,United States
+159,Zed,"Coding & Development",2023,"Fast collaborative editor with AI",https://zed.dev,Freemium,"Free (open source)","Pro ~$20",n/a,n/a,n/a,United States
+160,CodeRabbit,"Coding & Development",2023,"AI pull-request code review",https://www.coderabbit.ai,Freemium,"Free (open-source PRs)","Pro ~$24/seat",n/a,n/a,n/a,United States
+161,Retool,"Coding & Development",2020,"Build internal tools/apps with AI",https://retool.com,Freemium,"Free","Team ~$10/seat; Business ~$50/seat",4.6,n/a,n/a,United States
+162,Guru,"Productivity & Knowledge",2015,"AI enterprise knowledge search",https://www.getguru.com,Freemium,"Free","All-in-one ~$18/seat; Enterprise custom",4.7,n/a,n/a,United States
+163,Coda,"Productivity & Knowledge",2019,"Docs + apps workspace with AI",https://coda.io,Freemium,"Free","Pro ~$12; Team ~$36/seat",4.7,n/a,n/a,United States
+164,Motion,"Productivity & Knowledge",2019,"AI calendar & task auto-scheduling",https://www.usemotion.com,Paid (trial),"7-day trial","Individual ~$29; Team ~$20/seat",4.1,n/a,n/a,United States
+165,Taskade,"Productivity & Knowledge",2017,"AI tasks, notes & agents",https://www.taskade.com,Freemium,"Free","Pro ~$8; Business ~$16/seat",4.6,n/a,n/a,United States
+166,Reclaim.ai,"Productivity & Knowledge",2019,"AI time-blocking for calendars",https://reclaim.ai,Freemium,"Free","Starter ~$10; Business ~$15/seat",4.8,n/a,n/a,United States
+167,Glean,"Productivity & Knowledge",2019,"Enterprise AI work assistant/search",https://www.glean.com,Paid,"Demo","Enterprise custom (~$40+/seat)",4.6,n/a,n/a,United States
+168,Superhuman,"Productivity & Knowledge",2017,"AI-accelerated email client",https://superhuman.com,Paid (trial),"Trial","Starter ~$30; Business ~$40/seat",4.8,n/a,n/a,United States
+169,Presentations.ai,"Presentations & Design",2023,"Prompt-to-deck presentations",https://www.presentations.ai,Freemium,"Free","Pro ~$20; Enterprise custom",n/a,n/a,n/a,United States
+170,Pitch,"Presentations & Design",2020,"Collaborative decks with AI",https://pitch.com,Freemium,"Free","Pro ~$25/seat",4.6,n/a,n/a,Germany
+171,Decktopus,"Presentations & Design",2020,"Guided AI deck builder",https://www.decktopus.com,Paid (trial),"Free trial","Pro ~$15; Business ~$35",4.5,n/a,n/a,Turkey
+172,Plus AI,"Presentations & Design",2023,"AI slides inside Google Slides/PPT",https://www.plusdocs.com,Paid (trial),"7-day trial","Basic ~$10; Pro ~$20",4.8,n/a,n/a,United States
+173,Framer,"Presentations & Design",2014,"AI website builder/design",https://www.framer.com,Freemium,"Free","Mini ~$5; Basic ~$15; Pro ~$30",4.4,n/a,n/a,Netherlands
+174,Uizard,"Presentations & Design",2018,"AI UI/UX prototyping",https://uizard.io,Freemium,"Free","Pro ~$12; Business ~$49/seat",4.6,n/a,n/a,Denmark
+175,Looka,"Presentations & Design",2016,"AI logo & brand-kit maker",https://looka.com,Freemium,"Free preview","Logo ~$20 one-time; Brand kit ~$96/yr",4.4,n/a,n/a,Canada
+176,Clay,"Marketing, Sales & SEO",2021,"AI-enriched sales prospecting",https://www.clay.com,Freemium,"Free","Starter ~$149; Explorer ~$349",4.9,n/a,n/a,United States
+177,Apollo.io,"Marketing, Sales & SEO",2015,"Sales intelligence & outreach",https://www.apollo.io,Freemium,"Free","Basic ~$49; Professional ~$79/seat",4.7,n/a,n/a,United States
+178,Gong,"Marketing, Sales & SEO",2015,"Revenue intelligence from calls",https://www.gong.io,Paid,"Demo","Enterprise custom",4.8,n/a,n/a,United States
+179,Instantly,"Marketing, Sales & SEO",2021,"AI cold-email outreach at scale",https://instantly.ai,Freemium,"Free trial","Growth ~$37; Hypergrowth ~$97",4.8,n/a,n/a,United States
+180,Semrush,"Marketing, Sales & SEO",2008,"SEO/marketing suite with AI",https://www.semrush.com,Paid (trial),"Free (limited)","Pro ~$140; Guru ~$250",4.5,n/a,n/a,United States
+181,Ahrefs,"Marketing, Sales & SEO",2011,"SEO toolset with AI features",https://ahrefs.com,Freemium,"Free (webmaster tools)","Lite ~$129; Standard ~$249",4.6,n/a,n/a,Singapore
+182,MarketMuse,"Marketing, Sales & SEO",2015,"AI content planning & briefs",https://www.marketmuse.com,Freemium,"Free","Optimize ~$149; Research ~$399",4.6,n/a,n/a,United States
+183,Bubble,"Automation, Agents & No-code",2012,"No-code web-app builder with AI",https://bubble.io,Freemium,"Free","Starter ~$32; Growth ~$134",4.4,n/a,n/a,United States
+184,Relevance AI,"Automation, Agents & No-code",2020,"Build AI agent teams",https://relevanceai.com,Freemium,"Free","Pro ~$19; Team ~$199",4.6,n/a,n/a,Australia
+185,Lindy,"Automation, Agents & No-code",2023,"AI agents for business workflows",https://www.lindy.ai,Freemium,"Free","Pro ~$50; Business ~$300",n/a,n/a,n/a,United States
+186,Gumloop,"Automation, Agents & No-code",2023,"No-code AI automation flows",https://www.gumloop.com,Freemium,"Free","Starter ~$97; Pro ~$297",n/a,n/a,n/a,United States
+187,Dify,"Automation, Agents & No-code",2023,"Open-source LLM app builder",https://dify.ai,Freemium,"Free (open source)","Pro ~$59; Team ~$159",n/a,n/a,n/a,United States
+188,Bardeen,"Automation, Agents & No-code",2020,"Browser automation with AI",https://www.bardeen.ai,Freemium,"Free","Pro ~$20-$60",4.5,n/a,n/a,United States
+189,Google Translate,"Translation & Language",2006,"Free universal translation",https://translate.google.com,Free,"Free","—",4.7,n/a,n/a,United States
+190,ELSA,"Translation & Language",2015,"AI English pronunciation coach",https://elsaspeak.com,Freemium,"Free","Premium ~$12/mo (~$60/yr)",n/a,n/a,n/a,United States
+191,Speak,"Translation & Language",2016,"AI-powered spoken language tutor",https://www.speak.com,Freemium,"Free","Premium ~$20/mo (~$100/yr)",n/a,n/a,n/a,United States
+192,Fathom,"Meetings & Transcription",2020,"Free AI meeting notetaker",https://fathom.video,Freemium,"Free forever","Premium ~$15; Team ~$19/seat",5.0,n/a,n/a,United States
+193,tl;dv,"Meetings & Transcription",2020,"Meeting recording & AI notes",https://tldv.io,Freemium,"Free forever","Pro ~$18; Business ~$59/seat",4.7,n/a,n/a,Germany
+194,Khanmigo,"Education & Research",2023,"AI tutor by Khan Academy",https://www.khanmigo.ai,Freemium,"Free for teachers","Learners ~$4/mo (~$44/yr)",n/a,n/a,n/a,United States
+195,Chegg,"Education & Research",2005,"Homework help & study AI",https://www.chegg.com,Paid (trial),"Trial","Study ~$16; Study Pack ~$20",n/a,n/a,n/a,United States
+196,Originality.ai,"Detection & Integrity",2022,"AI-content & plagiarism detection",https://originality.ai,Paid,"Pay-as-you-go ~$10","Pro ~$15/mo; Enterprise custom",4.5,n/a,n/a,Canada
+197,Copyleaks,"Detection & Integrity",2015,"AI detection & plagiarism (enterprise)",https://copyleaks.com,Freemium,"Free trial","From ~$8-$14/mo; Enterprise custom",4.6,n/a,n/a,United States
+198,Julius AI,"Data & Analytics",2023,"Chat with your data/spreadsheets",https://julius.ai,Freemium,"Free (limited)","Basic ~$18; Pro ~$45",4.8,n/a,n/a,United States
+199,Hex,"Data & Analytics",2020,"AI-assisted data notebooks/BI",https://hex.tech,Freemium,"Free","Team ~$36/seat; Enterprise custom",4.6,n/a,n/a,United States
+200,Intercom Fin,"Customer Support & Chatbots",2023,"AI customer-support agent",https://www.intercom.com/fin,Paid,"Trial","Fin $0.99/resolution; seats from ~$29",4.5,n/a,n/a,United States
