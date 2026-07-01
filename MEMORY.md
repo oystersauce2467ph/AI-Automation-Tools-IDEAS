@@ -22,6 +22,7 @@
 | 2026-07-01 | Memory system setup | Created this MEMORY.md to persist chat history for the repo. |
 | 2026-07-01 | Push & auto-update | Committed/pushed MEMORY.md via PR #1; added steering rule to auto-update memory as we chat. |
 | 2026-07-01 | Auto-push approved | Enabled automatic pushing of MEMORY.md updates without asking each time. |
+| 2026-07-01 | Top 100 AI tools catalog | Built categorized Top 100 AI tools list (MD + CSV) and a directory-of-directories resource file. |
 
 ---
 
@@ -85,6 +86,29 @@
 
 **Open items / follow-ups:**
 - Merge PR #1 to land everything on `main`.
+
+---
+
+### 📅 2026-07-01 — Main Agenda: Top 100 AI Tools Catalog
+
+**Topic:** Cataloging the most-used AI tools, classified by category (repo's core purpose).
+
+**What was discussed:**
+- You asked me to list websites/Excel sheets about different AI tools and classify them by category — ideally the top ~100 AI tools most people use today.
+
+**Decisions made:**
+- Deliver both a categorized reference (Markdown) and an Excel-ready CSV, plus a curated list of source websites/directories.
+- Base rankings on current traffic data; exclude adult "companion" apps to keep it professional.
+
+**Actions taken:**
+- Researched current rankings (Exploding Topics Feb 2026, RankmyAI May 2026, a16z 6th ed.).
+- Created `ai-tools/Top-100-AI-Tools.csv` — 100 tools with category, use, pricing, traffic, origin.
+- Created `ai-tools/Top-100-AI-Tools.md` — 14 categories + overall Top 15 traffic table.
+- Created `ai-tools/AI-Tool-Directories.md` — ranking sites, directories, model hubs, and roundups for refreshing the list.
+
+**Open items / follow-ups:**
+- Optional: add columns like G2 rating, mobile MAU, or API usage; auto-refresh monthly from sources.
+- Optional: build filtered sub-lists (e.g., free-only, business-only, coding-only).
 
 ---
 
