@@ -21,6 +21,7 @@
 |------|-------|---------|
 | 2026-07-01 | Memory system setup | Created this MEMORY.md to persist chat history for the repo. |
 | 2026-07-01 | Push & auto-update | Committed/pushed MEMORY.md via PR #1; added steering rule to auto-update memory as we chat. |
+| 2026-07-01 | Auto-push approved | Enabled automatic pushing of MEMORY.md updates without asking each time. |
 
 ---
 
@@ -65,6 +66,25 @@
 
 **Open items / follow-ups:**
 - Merge PR #1 so `MEMORY.md` and the steering rule land on `main`. Until merged, they live on the `add-memory-file` branch.
+
+---
+
+### 📅 2026-07-01 — Automatic Memory Pushes Approved
+
+**Topic:** Making memory persistence fully hands-off.
+
+**What was discussed:**
+- You approved letting me push `MEMORY.md` updates automatically, without asking for confirmation each time.
+
+**Decisions made:**
+- Auto-push applies specifically to `MEMORY.md` and the memory steering file — not to unrelated code changes.
+
+**Actions taken:**
+- Updated `.kiro/steering/memory.md` to commit and push memory updates automatically as part of finishing each task.
+- Recorded this decision here and pushed to PR #1.
+
+**Open items / follow-ups:**
+- Merge PR #1 to land everything on `main`.
 
 ---
 
