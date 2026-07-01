@@ -23,6 +23,7 @@
 | 2026-07-01 | Push & auto-update | Committed/pushed MEMORY.md via PR #1; added steering rule to auto-update memory as we chat. |
 | 2026-07-01 | Auto-push approved | Enabled automatic pushing of MEMORY.md updates without asking each time. |
 | 2026-07-01 | Top 100 AI tools catalog | Built categorized Top 100 AI tools list (MD + CSV) and a directory-of-directories resource file. |
+| 2026-07-01 | Enriched to Top 1000 roadmap | Added pricing/release/G2/MAU columns, deep profiles w/ hidden features, filtered sub-lists; reframed as Top 1000 (batched). |
 
 ---
 
@@ -109,6 +110,34 @@
 **Open items / follow-ups:**
 - Optional: add columns like G2 rating, mobile MAU, or API usage; auto-refresh monthly from sources.
 - Optional: build filtered sub-lists (e.g., free-only, business-only, coding-only).
+
+---
+
+### 📅 2026-07-01 — Enriched Catalog + Top 1000 Roadmap
+
+**Topic:** Expanding the AI-tools research per your follow-up requests.
+
+**What was discussed:**
+- You asked to: add columns (G2 rating, mobile MAU, launch year/release date); show free vs paid tiers with free-tier duration and each paid plan's cost/period; briefly describe each tool + main features + a separate "hidden features" section; include release dates; ensure no redundancy; and change the target from Top 100 to **Top 1000** ("my mistake before").
+
+**Decisions made (and honest constraints I flagged):**
+- Mobile MAU is rarely public -> shown as "—" rather than fabricated (only a few known values filled).
+- "Hidden features" written only for tools I genuinely know (flagship tier), not invented for 1,000.
+- 1,000 tools with all fields must be built in **batches**; this commit is Batch 1 (~100) with the full schema.
+- Verified 2026 pricing for flagships via web search (ChatGPT, Gemini, Claude, Perplexity, Midjourney, GitHub Copilot, Cursor, ElevenLabs, Suno, etc.).
+
+**Actions taken:**
+- Created `ai-tools/AI-Tools-Master.csv` (new schema: Release, Pricing Model, Free Tier/Trial, Paid Plans, G2, Web Visits, Mobile MAU, Origin) for 100 tools.
+- Created `ai-tools/Tool-Profiles.md` — deep profiles (description + main features + hidden features + release + pricing) for flagship tools.
+- Created `ai-tools/Filtered-Lists.md` — free-tier / business / coding sub-lists.
+- Created `ai-tools/README.md` — schema, categories, and roadmap to 1,000.
+- Deleted redundant `Top-100-AI-Tools.md` and `Top-100-AI-Tools.csv`; fixed links in `AI-Tool-Directories.md`.
+- Pushed to branch `ai-tools-catalog` (updates PR #2).
+
+**Open items / follow-ups:**
+- Batches 2-7: expand toward 1,000 tools (category-balanced, deduped).
+- Optional: verify/fill more G2 ratings and any newly-public mobile MAU figures.
+- Monthly refresh of pricing and rankings.
 
 ---
 

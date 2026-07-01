@@ -1,7 +1,7 @@
 # AI Tool Directories, Rankings & Datasets
 
 Websites and resources that catalog, rank, and classify AI tools. Use these to keep the
-[Top 100 list](./Top-100-AI-Tools.md) fresh and to discover new tools by category.
+[master list](./AI-Tools-Master.csv) fresh and to discover new tools by category.
 *Content was rephrased for compliance with licensing restrictions.*
 
 ---
@@ -52,4 +52,4 @@ Websites and resources that catalog, rank, and classify AI tools. Use these to k
 1. Pull the latest monthly ranking from **RankmyAI** and **Exploding Topics** (traffic).
 2. Cross-check consumer momentum against the newest **a16z** report.
 3. Fill category gaps using **There's An AI For That** / **Futurepedia**.
-4. Update [`Top-100-AI-Tools.csv`](./Top-100-AI-Tools.csv) and re-sort the overall Top 15 table.
+4. Update [`AI-Tools-Master.csv`](./AI-Tools-Master.csv) and regenerate [`Filtered-Lists.md`](./Filtered-Lists.md).
