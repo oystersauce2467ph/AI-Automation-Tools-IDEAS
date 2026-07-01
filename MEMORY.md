@@ -10,7 +10,8 @@
 - Every meaningful conversation or decision gets recorded as a dated entry below.
 - Each entry captures: **what was discussed**, **decisions made**, **actions taken**, and any **open items / follow-ups**.
 - When you ask "what did we talk about before?" or reference a past request, Kiro reads this file first.
-- Ask Kiro to **"update memory"** at any point and this log will be appended with the latest context.
+- This file is kept up to date **automatically** as we chat (enforced by `.kiro/steering/memory.md`), so you don't have to ask.
+- You can still say **"update memory"** anytime to force an immediate save.
 
 ---
 
@@ -19,6 +20,9 @@
 | Date | Topic | Summary |
 |------|-------|---------|
 | 2026-07-01 | Memory system setup | Created this MEMORY.md to persist chat history for the repo. |
+| 2026-07-01 | Push & auto-update | Committed/pushed MEMORY.md via PR #1; added steering rule to auto-update memory as we chat. |
+| 2026-07-01 | Auto-push approved | Enabled automatic pushing of MEMORY.md updates without asking each time. |
+| 2026-07-01 | Top 100 AI tools catalog | Built categorized Top 100 AI tools list (MD + CSV) and a directory-of-directories resource file. |
 
 ---
 
@@ -41,6 +45,70 @@
 
 **Open items / follow-ups:**
 - None yet. Future conversations will be appended as new dated entries.
+
+---
+
+### 📅 2026-07-01 — Push to GitHub & Auto-Update Memory
+
+**Topic:** Publishing the memory file and making it self-updating.
+
+**What was discussed:**
+- You approved committing and pushing `MEMORY.md` to GitHub.
+- You then asked that all our chats already be reflected in memory, and that this be fixed so memory stays current as we chat longer.
+
+**Decisions made:**
+- Push `MEMORY.md` on a new branch and open a PR (rather than committing straight to `main`).
+- Establish automatic memory upkeep via a steering rule instead of relying on manual "update memory" requests.
+
+**Actions taken:**
+- Created branch `add-memory-file`, committed `MEMORY.md`, pushed it, and opened [PR #1](https://github.com/oystersauce2467ph/AI-Automation-Tools-IDEAS/pull/1).
+- Added `.kiro/steering/memory.md` (inclusion: always) instructing Kiro to read `MEMORY.md` at session start and keep it updated automatically after each meaningful exchange.
+- Backfilled this conversation into the log so memory is fully current.
+
+**Open items / follow-ups:**
+- Merge PR #1 so `MEMORY.md` and the steering rule land on `main`. Until merged, they live on the `add-memory-file` branch.
+
+---
+
+### 📅 2026-07-01 — Automatic Memory Pushes Approved
+
+**Topic:** Making memory persistence fully hands-off.
+
+**What was discussed:**
+- You approved letting me push `MEMORY.md` updates automatically, without asking for confirmation each time.
+
+**Decisions made:**
+- Auto-push applies specifically to `MEMORY.md` and the memory steering file — not to unrelated code changes.
+
+**Actions taken:**
+- Updated `.kiro/steering/memory.md` to commit and push memory updates automatically as part of finishing each task.
+- Recorded this decision here and pushed to PR #1.
+
+**Open items / follow-ups:**
+- Merge PR #1 to land everything on `main`.
+
+---
+
+### 📅 2026-07-01 — Main Agenda: Top 100 AI Tools Catalog
+
+**Topic:** Cataloging the most-used AI tools, classified by category (repo's core purpose).
+
+**What was discussed:**
+- You asked me to list websites/Excel sheets about different AI tools and classify them by category — ideally the top ~100 AI tools most people use today.
+
+**Decisions made:**
+- Deliver both a categorized reference (Markdown) and an Excel-ready CSV, plus a curated list of source websites/directories.
+- Base rankings on current traffic data; exclude adult "companion" apps to keep it professional.
+
+**Actions taken:**
+- Researched current rankings (Exploding Topics Feb 2026, RankmyAI May 2026, a16z 6th ed.).
+- Created `ai-tools/Top-100-AI-Tools.csv` — 100 tools with category, use, pricing, traffic, origin.
+- Created `ai-tools/Top-100-AI-Tools.md` — 14 categories + overall Top 15 traffic table.
+- Created `ai-tools/AI-Tool-Directories.md` — ranking sites, directories, model hubs, and roundups for refreshing the list.
+
+**Open items / follow-ups:**
+- Optional: add columns like G2 rating, mobile MAU, or API usage; auto-refresh monthly from sources.
+- Optional: build filtered sub-lists (e.g., free-only, business-only, coding-only).
 
 ---
 
